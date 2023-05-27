@@ -1,0 +1,19 @@
+.Header {
+  background: rgb(220, 195, 8);
+  color: #fff;
+  text-align: center;
+  text-shadow: -1px 2px 0 #c6c01b,
+	1px 2px 0 #d6f818,
+	1px -2px 0 #c9c907,
+	-1px -2px 0 #c6c23f;
+  width: 100vw;
+}
+.Header h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+.Header label {
+  color: "#fff";
+  margin-left: "10px";
+  font-size: "1.2rem";
+}
